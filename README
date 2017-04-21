@@ -1,0 +1,8 @@
+To compile, type make.
+
+To run the project, type p1 followed by the name of the file.
+
+Usage: ./p1 <-l> <-ast> filename
+
+Here -l and -ast are optional switches. The '-l' switch prints the input file. The -ast switch prints the AST. If no switch is given, the program exists after building the AST internally.
+
